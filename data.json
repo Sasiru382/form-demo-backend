@@ -1,0 +1,17 @@
+[
+    {
+    "Name" :"Sasiru",
+    "Age" :21,
+    "Password":"SSS567890"
+    },
+    {
+    "Name" :"Kumara",
+    "Age" :22,
+    "Password":"1234"
+    },
+    {
+    "Name" :"Kamala",
+    "Age" :24,
+    "Password":"root"
+    }
+]
